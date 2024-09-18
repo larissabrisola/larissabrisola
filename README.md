@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: Cypress, Cucumber, Robotframework, Appium
+  💼 Tools: Cypress, Cucumber, Robotframework, Appium, Postman
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&www.linkedin.com/in/larissabrisola" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/larissabrisola/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&www.linkedin.com/in/" alt="LinkedIn"/></a>
   
 </p>
